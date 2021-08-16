@@ -1,1 +1,1 @@
-# artificial-intelligence-project-source-code
+# Artificial Intelligence Project Source Code
